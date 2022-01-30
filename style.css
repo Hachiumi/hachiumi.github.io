@@ -1,0 +1,65 @@
+/*
+E0B4A3
+B67E77
+7E4F5F
+C45524
+*/
+
+
+html {
+	font-family: "Lucida Console", "Courier New", monospace;
+	background-color: #1a1a1f;
+	text-align: center;
+  }
+  body, html {
+	height: 100%;
+	margin: 0;
+  }
+  .centered {
+	  text-align: center;
+  }
+  
+  
+  h1 {
+	  color: #E0B4A3;
+  }
+  h2 {
+	  color: #B67E77;
+  }
+  h3 {
+	  color: #7E4F5F;
+  }
+  h4 {
+	  color: #C45524;
+  }
+  h5 {
+	  color: #ffffff;
+  }
+  p {
+	  color: azure;
+  }
+  a {
+	  color: #34deeb;
+	
+  }
+  
+  .link {
+	color: #34deeb;
+	background-color: #1a1a1f;
+	border: rgb(255, 232, 235);
+	border-style: solid;
+	padding: 16px 32px;
+	text-align: center;
+	font-size: 16px;
+	margin: 4px 2px;
+	opacity: 0.6;
+	transition: 0.3s;
+	display: inline-block;
+	text-decoration: none;
+	cursor: pointer;
+  }
+  
+  .hiddenlink {
+	color: azure;
+	text-decoration: none;
+  }
